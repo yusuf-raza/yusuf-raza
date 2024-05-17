@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuf-raza&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf-raza" /> </p>
 
-- 🌱 I’m currently learning **GetX**
+- 🌱 I’m currently learning **Firebase**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
